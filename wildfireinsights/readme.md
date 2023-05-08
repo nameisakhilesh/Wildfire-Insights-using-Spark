@@ -1,5 +1,5 @@
-# WildfireDB
-WildfireDB : an open-source dataset that links wildfire occurrence with relevant features 
+# Wildfire Insights by Spark
+Wildfire Insights by Spark : an open-source dataset that links wildfire occurrence with relevant features 
 
 ## Introduction
 ---
@@ -13,6 +13,7 @@ Recent wildfires in the United States and other parts of the world have resulted
 |Version|Release Date|Associated Publication|Location|     
 |----|-----|-------|-------|      
 |1.1|June 10, 2021|[Link](https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_43.pdf)|[Link](https://drive.google.com/file/d/1B582y8_cPWxNuevpm3ZM-SZf_23HRUAQ/view?usp=sharing)|
+|1.2|March 24, 2023| [Link](https://drive.google.com/file/d/17cTgy9VIyQP8c0Io8b6lyRo9hK-vRXeP/view?usp=share_link)|[Link](https://drive.google.com/drive/folders/1Tq26zk_AbAvj-R42UqHMqg2qIaceo6qg?usp=share_link)|
 
 
 
